@@ -1,0 +1,9 @@
+meraki
+webexteamsbot
+requests
+schedule
+flask
+configparser
+O365
+crayons
+datetime

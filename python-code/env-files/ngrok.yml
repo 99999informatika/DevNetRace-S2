@@ -1,0 +1,8 @@
+authtoken:
+tunnels:
+  first:
+    addr: 5000
+    proto: http    
+  second:
+    addr: 8081
+    proto: http

@@ -1,0 +1,48 @@
+{
+  "users": {
+    "objects": [
+      {
+        "id": "f0550b71-0175-40fb-a34f-cbc7655b6fb5_9999996",
+        "type": "RealmUser",
+        "name": "Guest",
+        "realm": {
+          "id": "f0550b71-0175-40fb-a34f-cbc7655b6fb5",
+          "type": "Realm"
+        }
+      }
+    ]
+  },
+  "vlanTags": {},
+  "enableSyslog": false,
+  "sourceZones": {
+    "objects": [
+      {
+        "name": "INSIDE",
+        "id": "037f5838-6412-11e8-a51d-e68d36fe956d",
+        "type": "SecurityZone"
+      }
+    ]
+  },
+  "destinationZones": {
+    "objects": [
+      {
+        "name": "OUTSIDE",
+        "id": "3abf6934-f2c4-11e6-adc9-8793d8cc0fcc",
+        "type": "SecurityZone"
+      }
+    ]
+  },
+  "logBegin": false,
+  "logEnd": false,
+  "variableSet": {
+    "name": "Default-Set",
+    "id": "76fa83ea-c972-11e2-8be8-8e45bb1343c0",
+    "type": "VariableSet"
+  },
+  "logFiles": false,
+  "sendEventsToFMC": false,
+  "type": "AccessRule",
+  "action": "ALLOW",
+  "name": "guest_teszt",
+  "enabled": true
+}

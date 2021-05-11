@@ -1,0 +1,240 @@
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+active
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+resolved
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+active
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+resolved
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+active
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+resolved
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+active
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+resolved
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+active
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+active
+NETWORK-DEVICES-3-210
+None
+None
+Switch HQ_FE3.budsuperlab.net Interface TwoGigabitEthernet1/0/17 is flapping
+10.120.50.75
+resolved
+NETWORK-DEVICES-2-106
+None
+None
+AP AP1416.9DE0.18F0 went down
+AP1416.9DE0.18F0
+resolved
+NETWORK-NON-FABRIC_WIRED-2-302
+Interface on Device is Down
+Network Device Interface Connectivity - Interface Down
+Device name: TwoGigabitEthernet1/0/17 - interface state changed to Down
+10.120.50.75
+resolved
